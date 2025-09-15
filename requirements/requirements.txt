@@ -1,0 +1,32 @@
+# Core data wrangling
+pandas
+numpy==1.23.5
+scikit-learn
+
+# Database
+sqlalchemy
+psycopg2-binary
+python-dotenv
+
+# Deep learning stack
+torch==1.13.1
+pytorch-lightning==1.9.5
+pytorch-forecasting==0.10.3
+
+# Scheduling
+apscheduler
+tzlocal   # timezone support for apscheduler
+
+# Visualization / optional analysis
+matplotlib
+seaborn
+
+# Utilities
+python-dateutil
+pytz
+
+Flask
+flask-cors
+pandas
+sqlalchemy
+psycopg2-binary
