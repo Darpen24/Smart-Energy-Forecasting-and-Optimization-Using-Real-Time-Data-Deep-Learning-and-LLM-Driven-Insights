@@ -1,0 +1,22 @@
+{
+  "series": [
+    "appliance:appliances_lighting",
+    "appliance:cooking",
+    "appliance:cooling",
+    "appliance:heating",
+    "appliance:other",
+    "appliance:water_heating",
+    "grid_load",
+    "solar"
+  ],
+  "appliances": [
+    "appliances_lighting",
+    "cooking",
+    "cooling",
+    "heating",
+    "other",
+    "water_heating"
+  ],
+  "max_encoder_length": 168,
+  "max_prediction_length": 24
+}
